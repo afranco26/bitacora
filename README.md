@@ -10,7 +10,7 @@
 | Actividad de ejemplo | 12/03/2021 | Se debate sobre el cuantos repositorios utilizar |
 
 ### Bitacora 
-**12 de Marzo 2021:**
+**12 de Marzo 2021:**  
 Se desarrolla un debate sobre cuantos repositorios utilizar, se decide utilizar x repositorios por x motivo.
 
 #### Observaciones:
