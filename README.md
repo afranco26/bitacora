@@ -1,4 +1,4 @@
-![DevSecOps](devsecops.png)
+![DevSecOps](devsecops.png){height=300px}
 # Bitacora de decisiones
 ## Proyecto DevSecOps - Equipo Rojo y Verde
 ##### integrantes:
